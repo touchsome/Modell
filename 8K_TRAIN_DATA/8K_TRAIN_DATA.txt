@@ -1,0 +1,3 @@
+0data.TIF 0label.TIF
+1data.TIF 1label.TIF
+2data.TIF 2label.TIF
